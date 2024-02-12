@@ -1,0 +1,215 @@
+20:34:07.741 [main] DEBUG - Save part 'xl/styles.xml'
+20:34:07.750 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+20:34:07.751 [main] DEBUG - Save part 'xl/workbook.xml'
+20:34:07.754 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+20:34:07.754 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+20:34:07.755 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+20:34:07.755 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+20:34:07.756 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+20:34:07.756 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+20:34:07.756 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+20:34:07.756 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+20:34:07.758 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+20:34:07.758 [main] DEBUG - Save part 'xl/worksheets/sheet10.xml'
+20:34:07.758 [main] DEBUG - Save part 'xl/worksheets/sheet11.xml'
+20:34:07.759 [main] DEBUG - Save part 'xl/worksheets/sheet12.xml'
+20:34:07.759 [main] DEBUG - Save part 'xl/worksheets/sheet13.xml'
+20:34:07.759 [main] DEBUG - Save part 'xl/worksheets/sheet14.xml'
+20:34:07.760 [main] DEBUG - Save part 'xl/worksheets/sheet15.xml'
+20:34:07.760 [main] DEBUG - Save part 'xl/worksheets/sheet16.xml'
+20:34:07.760 [main] DEBUG - Save part 'xl/worksheets/sheet17.xml'
+20:34:07.760 [main] DEBUG - Save part 'xl/worksheets/sheet18.xml'
+20:34:07.761 [main] DEBUG - Save part 'xl/worksheets/sheet19.xml'
+20:34:07.761 [main] DEBUG - Save part 'xl/worksheets/sheet20.xml'
+20:34:07.761 [main] DEBUG - Save part 'xl/worksheets/sheet21.xml'
+20:34:07.762 [main] DEBUG - Save part 'xl/worksheets/sheet22.xml'
+20:34:07.768 [main] INFO  - printing 2nd list of icon elements. 
+20:34:08.210 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:34:08.212 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:34:08.317 [main] DEBUG - Save content types part
+20:34:08.322 [main] DEBUG - Save package relationships
+20:34:08.324 [main] DEBUG - Save part 'docProps/app.xml'
+20:34:08.325 [main] DEBUG - Save part 'docProps/core.xml'
+20:34:08.326 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+20:34:08.326 [main] DEBUG - Save part 'xl/styles.xml'
+20:34:08.327 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+20:34:08.327 [main] DEBUG - Save part 'xl/workbook.xml'
+20:34:08.329 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+20:34:08.330 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+20:34:08.330 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+20:34:08.330 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+20:34:08.330 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+20:34:08.330 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+20:34:08.330 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+20:34:08.331 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+20:34:08.331 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+20:34:08.331 [main] DEBUG - Save part 'xl/worksheets/sheet10.xml'
+20:34:08.332 [main] DEBUG - Save part 'xl/worksheets/sheet11.xml'
+20:34:08.332 [main] DEBUG - Save part 'xl/worksheets/sheet12.xml'
+20:34:08.332 [main] DEBUG - Save part 'xl/worksheets/sheet13.xml'
+20:34:08.332 [main] DEBUG - Save part 'xl/worksheets/sheet14.xml'
+20:34:08.333 [main] DEBUG - Save part 'xl/worksheets/sheet15.xml'
+20:34:08.333 [main] DEBUG - Save part 'xl/worksheets/sheet16.xml'
+20:34:08.333 [main] DEBUG - Save part 'xl/worksheets/sheet17.xml'
+20:34:08.333 [main] DEBUG - Save part 'xl/worksheets/sheet18.xml'
+20:34:08.333 [main] DEBUG - Save part 'xl/worksheets/sheet19.xml'
+20:34:08.334 [main] DEBUG - Save part 'xl/worksheets/sheet20.xml'
+20:34:08.334 [main] DEBUG - Save part 'xl/worksheets/sheet21.xml'
+20:34:08.334 [main] DEBUG - Save part 'xl/worksheets/sheet22.xml'
+20:34:08.334 [main] DEBUG - Save part 'xl/worksheets/sheet23.xml'
+20:34:08.564 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:34:08.566 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:34:08.651 [main] DEBUG - Save content types part
+20:34:08.654 [main] DEBUG - Save package relationships
+20:34:08.672 [main] DEBUG - Save part 'docProps/app.xml'
+20:34:08.677 [main] DEBUG - Save part 'docProps/core.xml'
+20:34:08.679 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+20:34:08.679 [main] DEBUG - Save part 'xl/styles.xml'
+20:34:08.680 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+20:34:08.681 [main] DEBUG - Save part 'xl/workbook.xml'
+20:34:08.695 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+20:34:08.695 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+20:34:08.695 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+20:34:08.696 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+20:34:08.696 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+20:34:08.696 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+20:34:08.696 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+20:34:08.696 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+20:34:08.697 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+20:34:08.697 [main] DEBUG - Save part 'xl/worksheets/sheet10.xml'
+20:34:08.697 [main] DEBUG - Save part 'xl/worksheets/sheet11.xml'
+20:34:08.697 [main] DEBUG - Save part 'xl/worksheets/sheet12.xml'
+20:34:08.697 [main] DEBUG - Save part 'xl/worksheets/sheet13.xml'
+20:34:08.697 [main] DEBUG - Save part 'xl/worksheets/sheet14.xml'
+20:34:08.698 [main] DEBUG - Save part 'xl/worksheets/sheet15.xml'
+20:34:08.698 [main] DEBUG - Save part 'xl/worksheets/sheet16.xml'
+20:34:08.698 [main] DEBUG - Save part 'xl/worksheets/sheet17.xml'
+20:34:08.698 [main] DEBUG - Save part 'xl/worksheets/sheet18.xml'
+20:34:08.699 [main] DEBUG - Save part 'xl/worksheets/sheet19.xml'
+20:34:08.699 [main] DEBUG - Save part 'xl/worksheets/sheet20.xml'
+20:34:08.699 [main] DEBUG - Save part 'xl/worksheets/sheet21.xml'
+20:34:08.700 [main] DEBUG - Save part 'xl/worksheets/sheet22.xml'
+20:34:08.700 [main] DEBUG - Save part 'xl/worksheets/sheet23.xml'
+20:34:08.700 [main] DEBUG - Save part 'xl/worksheets/sheet24.xml'
+09:48:56.586 [main] INFO  - opened cognizant page checking icon.. 
+09:48:56.705 [main] INFO  - printing 1st list in service lines.. 
+09:48:57.054 [main] INFO  - printing 2nd list of icon elements. 
+09:50:42.748 [main] INFO  - clicked on company header.. 
+09:50:42.900 [main] INFO  - opened be cognizant page.. 
+09:50:43.240 [main] INFO  - opened be cognizant page.. 
+09:51:18.763 [main] INFO  - opened be cognizant page.. 
+09:51:18.807 [main] INFO  - clicking the user icon.. 
+09:51:18.876 [main] INFO  - verifyimg the user details.. 
+09:51:37.525 [main] INFO  - opened cognizant page checking icon.. 
+09:51:37.557 [main] INFO  - printing 1st list in service lines.. 
+09:51:37.866 [main] INFO  - printing 2nd list of icon elements. 
+10:39:31.767 [main] INFO  - checks  sales header has icon.. 
+10:39:31.811 [main] INFO  - clicked on sales header and prints.. 
+10:39:32.048 [main] INFO  - checks if icon present then hover.. 
+10:10:25.821 [main] INFO  - clicked on company header.. 
+10:10:25.907 [main] INFO  - opened be cognizant page.. 
+10:10:26.150 [main] INFO  - opened be cognizant page.. 
+10:12:02.502 [main] INFO  - opened be cognizant page.. 
+10:12:02.574 [main] INFO  - clicking the user icon.. 
+10:12:02.649 [main] INFO  - verifyimg the user details.. 
+17:48:51.776 [main] INFO  - opened be cognizant page.. 
+17:48:51.818 [main] INFO  - clicking the user icon.. 
+17:48:51.875 [main] INFO  - verifyimg the user details.. 
+17:50:07.475 [main] INFO  - opened be cognizant page.. 
+17:50:07.510 [main] INFO  - clicking the user icon.. 
+17:50:07.572 [main] INFO  - verifyimg the user details.. 
+17:51:01.115 [main] INFO  - opened be cognizant page.. 
+17:51:01.174 [main] INFO  - clicking the user icon.. 
+17:51:01.251 [main] INFO  - verifyimg the user details.. 
+17:53:25.159 [main] INFO  - opened be cognizant page.. 
+17:53:25.193 [main] INFO  - clicking the user icon.. 
+17:53:25.246 [main] INFO  - verifyimg the user details.. 
+18:00:35.731 [main] INFO  - opened be cognizant page.. 
+18:00:35.769 [main] INFO  - clicking the user icon.. 
+18:00:35.833 [main] INFO  - verifyimg the user details.. 
+18:06:01.572 [main] INFO  - opened be cognizant page.. 
+18:06:01.614 [main] INFO  - clicking the user icon.. 
+18:06:01.682 [main] INFO  - verifyimg the user details.. 
+18:07:17.271 [main] INFO  - opened be cognizant page.. 
+18:07:17.310 [main] INFO  - clicking the user icon.. 
+18:07:17.379 [main] INFO  - verifyimg the user details.. 
+18:09:47.380 [main] INFO  - opened be cognizant page.. 
+18:09:47.422 [main] INFO  - clicking the user icon.. 
+18:09:53.503 [main] INFO  - verifyimg the user details.. 
+07:33:21.466 [main] INFO  - opened be cognizant page.. 
+07:33:21.510 [main] INFO  - clicking the user icon.. 
+07:33:21.564 [main] INFO  - verifyimg the user details.. 
+07:37:13.362 [main] INFO  - opened be cognizant page.. 
+07:37:13.407 [main] INFO  - clicking the user icon.. 
+07:37:13.457 [main] INFO  - verifyimg the user details.. 
+07:37:53.887 [main] INFO  - opened be cognizant page.. 
+07:37:53.926 [main] INFO  - clicking the user icon.. 
+07:38:00.029 [main] INFO  - verifyimg the user details.. 
+07:38:37.931 [main] INFO  - opened be cognizant page.. 
+07:38:37.979 [main] INFO  - clicking the user icon.. 
+07:38:44.140 [main] INFO  - verifyimg the user details.. 
+10:02:12.063 [main] INFO  - opened be cognizant page.. 
+10:02:12.107 [main] INFO  - clicking the user icon.. 
+10:02:18.193 [main] INFO  - verifyimg the user details.. 
+10:40:05.010 [main] INFO  - opened cognizant page checking icon.. 
+16:13:11.947 [main] INFO  - clicked on company header.. 
+16:13:12.021 [main] INFO  - opened be cognizant page.. 
+16:13:12.222 [main] INFO  - opened be cognizant page.. 
+16:13:32.861 [main] INFO  - opened be cognizant page.. 
+16:13:32.894 [main] INFO  - clicking the user icon.. 
+16:13:38.958 [main] INFO  - verifyimg the user details.. 
+16:13:59.146 [main] INFO  - checks  sales header has icon.. 
+16:13:59.178 [main] INFO  - clicked on sales header and prints.. 
+16:13:59.345 [main] INFO  - checks if icon present then hover.. 
+16:14:29.724 [main] INFO  - opened cognizant page checking icon.. 
+16:14:29.759 [main] INFO  - printing 1st list in service lines.. 
+16:14:30.040 [main] INFO  - printing 2nd list of icon elements. 
+16:44:37.143 [main] INFO  - clicked on company header.. 
+16:44:37.220 [main] INFO  - opened be cognizant page.. 
+16:44:37.469 [main] INFO  - opened be cognizant page.. 
+16:44:58.512 [main] INFO  - opened be cognizant page.. 
+16:44:58.565 [main] INFO  - clicking the user icon.. 
+16:45:04.627 [main] INFO  - verifyimg the user details.. 
+16:45:50.974 [main] INFO  - checks  sales header has icon.. 
+16:45:51.019 [main] INFO  - clicked on sales header and prints.. 
+16:45:51.257 [main] INFO  - checks if icon present then hover.. 
+16:46:12.538 [main] INFO  - opened cognizant page checking icon.. 
+16:46:12.601 [main] INFO  - printing 1st list in service lines.. 
+16:46:12.907 [main] INFO  - printing 2nd list of icon elements. 
+16:47:58.077 [main] INFO  - opened cognizant page checking icon.. 
+16:47:58.127 [main] INFO  - printing 1st list in service lines.. 
+16:47:58.465 [main] INFO  - printing 2nd list of icon elements. 
+08:53:59.349 [main] INFO  - opened be cognizant page.. 
+08:57:02.759 [main] INFO  - clicked on company header.. 
+08:58:00.972 [main] INFO  - clicked on company header.. 
+08:58:21.352 [main] INFO  - opened be cognizant page.. 
+08:58:37.296 [main] INFO  - checks  sales header has icon.. 
+08:58:56.660 [main] INFO  - opened cognizant page checking icon.. 
+09:13:50.261 [main] INFO  - checks  sales header has icon.. 
+09:14:27.064 [main] INFO  - checks  sales header has icon.. 
+09:20:34.586 [main] INFO  - checks  sales header has icon.. 
+09:22:12.500 [main] INFO  - checks  sales header has icon.. 
+09:23:15.905 [main] INFO  - checks  sales header has icon.. 
+09:23:50.906 [main] INFO  - checks  sales header has icon.. 
+09:24:36.006 [main] INFO  - checks  sales header has icon.. 
+09:26:15.911 [main] INFO  - checks  sales header has icon.. 
+09:28:08.796 [main] INFO  - checks  sales header has icon.. 
+09:28:52.957 [main] INFO  - checks  sales header has icon.. 
+09:29:23.916 [main] INFO  - checks  sales header has icon.. 
+09:30:25.969 [main] INFO  - checks  sales header has icon.. 
+09:30:59.148 [main] INFO  - opened cognizant page checking icon.. 
+10:39:37.980 [main] INFO  - clicked on company header.. 
+10:10:48.467 [main] INFO  - clicked on company header.. 
+10:11:12.603 [main] INFO  - opened be cognizant page.. 
+10:11:30.707 [main] INFO  - checks  sales header has icon.. 
+10:12:06.306 [main] INFO  - opened cognizant page checking icon.. 
+10:15:27.727 [main] INFO  - clicked on company header.. 
+10:15:49.701 [main] INFO  - opened be cognizant page.. 
+10:16:06.046 [main] INFO  - checks  sales header has icon.. 
+10:16:39.490 [main] INFO  - opened cognizant page checking icon.. 
+10:31:39.908 [main] INFO  - clicked on company header.. 
+10:32:19.468 [main] INFO  - opened be cognizant page.. 
+10:32:53.865 [main] INFO  - checks  sales header has icon.. 
+10:34:00.347 [main] INFO  - opened cognizant page checking icon.. 
+10:11:28.913 [main] INFO  - checks  sales header has icon.. 
+10:36:22.619 [main] INFO  - opened cognizant page checking icon.. 
